@@ -6,7 +6,7 @@ Modern Love will be a tool to visualise the recent explosion in visible sexualit
 
 This is very exciting for everyone! It doesn't matter if, like me, your apparently honest preferences are actually quite near to the old package deal; we all benefit from the end of unreasoned and unfree sex - even if we subsequently choose much the same package. Choice dignifies.
 
-But it is hard to think clearly about these things. I find it helpful to see sex as a high-dimensionality space which suddenly has a half a dozen [degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_%28statistics%29). Luckily, things like these can be represented intuitively with graphics.
+But it is hard to think clearly about these things. I find it helpful to see sex as a high-dimensionality space which suddenly has a half a dozen [degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_%28statistics%29). Luckily, things like these can be represented intuitively with graphics. Many people dislike being measured; many more dislike labels. But in my experience, humans like pictures and need words.
 
 
 #### Features
@@ -21,31 +21,29 @@ But it is hard to think clearly about these things. I find it helpful to see sex
 ---
 
 #### The new variables:  
-<ol>
-<li>*Physical intensity*: from totally asexual to hypersexual</li>
-<li>*Romantic intensity*: from totally aromantic to Soulmatism</li>
-<li>[Gender orientation](https://en.wikipedia.org/wiki/Kinsey_scale): from exclusively same-gender to exclusively other-gender. </li>
-<li>Synchronic count: from only monogamy to only polyamory</li>
-<li>Exclusivity: neurotically exclusive to totally transient.</li>
-<li>Paraphilia: from procreation-only puritanism to {Armin Meiwes}</li>
-<li>Natalism: from voluntary sterilisation to [Quiverfull](https://en.wikipedia.org/wiki/Quiverfull) maximisation</li>
-</ol>
 
-(I *like* naming concepts, but I'm aware that it's stupid to counter jargon with more Latinate neologisms; the final version will expand these into full questions: e.g. "To what degree ?")
+1. **Physical intensity**: from totally asexual to hypersexual
+2. **Romantic intensity**: from totally aromantic to Soulmatism
+3. [**Gender orientation**](https://en.wikipedia.org/wiki/Kinsey_scale): from exclusively same-gender to exclusively other-gender. 
+4. **Synchronic count**: from only monogamy to only polyamory
+5. **Exclusivity**: neurotically exclusive to totally transient.
+6. **Paraphilia**: from procreation-only puritanism to {Armin Meiwes}
+7. **Natalism**: from voluntary sterilisation to [Quiverfull](https://en.wikipedia.org/wiki/Quiverfull) maximisation
 
+
+(I *like* naming concepts - but I'm aware that it's stupid to counter jargon with more Latinate neologisms; the final version will expand these into full questions: e.g. "To what degree are you?" and present intuitive sliders.)
+
+---
 
 ### Why?
 
-For a long time, sex and love were a package deal, a strict script. If you wanted to avoid spontaneous violence and life-long ostracision, you lived according to that script. The package varied over the years, but the most recent form was: "find and love one person of the opposite gender and have sex with only them; live and breed with them forever; if you don't like sex then you are defective; if you find anything except genitals erotic then you are defective".
+For a long time, sex and love followed a strict script. If you wanted to avoid spontaneous violence and life-long ostracision, you lived according to that script. The package varied over the years, but a recent form was: "find and love one person of the opposite gender and have sex with only them; live and breed with them forever; if you don't like sex then you are defective; if you find anything except genitals erotic then you are defective".
 
-It doesn't matter if, like me, your apparently honest preferences are actually quite near to the old package deal; we all benefit from the end of unreasoned and unfree sex - even if we subsequently choose much the same package. Choice dignifies.
-
-Some brave, wise people are to thank for this unprecedented latitude: mostly feminists and queers. However, the academic forms of these movements are by and large totally unreadable.
-
-Many people dislike being measured and many more dislike labels. But in my experience, humans need words.
+A mass of brave people are to thank for this unprecedented latitude: mostly feminists and hippies and queers. However, the academic forms that have grown on these movements are by and large *totally unreadable*. So you're stuck trying to sift the blogosphere of its vast noise looking for signal.
 
 The options are actually never binary, and most of us find it hard to think about spectrums. Here is a visual approach.
 
+---
 
 ## Problems, Omissions
 
@@ -56,8 +54,7 @@ The options are actually never binary, and most of us find it hard to think abou
   2. Intensity of [ideological](http://blog.practicalethics.ox.ac.uk/2015/05/if-youre-a-conservative-im-not-your-friend/) [assortative mating](https://en.wikipedia.org/wiki/Assortative_mating).
   3. Target gender archetype ("from exclusively men to exclusively women with androgynes in the middle") is a more personally informative way of obtaining 'an orientation', but obvs it misses out on a vast amount of social information: gay men and straight women differ enormously, and so on.
   4. Preference for conventional beauty: from indiscriminate to . It's not right to put this in "paraphilia". Nor do I want to incite rage by calling it "fussiness"...
-
-* Monogamy and jealousy - possessiveness and reproductive anxiety - are deeply related. But they are logically distinct, and some people are willing monogamists with a poly partner. The results of this voluntary, unstructured experiment are forthcoming.
+  5. Monogamy as distinct from jealousy. Possessiveness and reproductive pair-bond anxiety are obviously deeply related. But they are logically distinct, and some people are willing monogamists with a poly partner. The results of this voluntary, unstructured experiment are forthcoming.
 
 * No particular view of the relative causal strength of nature and nurture on sex is presented. ([Though check this mad business out!](https://en.wikipedia.org/wiki/Digit_ratio#Correlation_between_digit_ratio_and_traits))
 
@@ -67,8 +64,8 @@ The options are actually never binary, and most of us find it hard to think abou
 
 * To study any part of human experience entails a solid chance that what you're studying is imaginary. (Or rather, 'real, but made of ideas, habits and social pressure rather than directly of molecules and neural patterns'.) We call this [construct validity](https://en.wikipedia.org/wiki/Construct_validity), and it is important to ask whether the divisions presented here - sexuality and romance as eight particular.
 
-My first response is that ML attempts neither prediction or deep explanation of sexuality; rather, it's a education and visualisation of prima facie plausible axes.
+  1. My first response is that ML attempts neither prediction or deep explanation of sexuality; rather, it's a education and visualisation of prima facie plausible axes.
 
-My second defence is that my instrument is not very '[theory-laden](https://en.wikipedia.org/wiki/Theory-ladenness)': most of these tendencies and preferences are observable, and so the role of theory is happily limited.
+  2. My second defence is that my instrument is not very '[theory-laden](https://en.wikipedia.org/wiki/Theory-ladenness)': most of these tendencies and preferences are observable, and so the role of theory is happily limited.
 
-My joke defence is that I'm including a survey and look forward to doing a cluster analysis which proves that straight men aren't real. Next!
+  3. My joke defence is that I'm including a survey and look forward to doing a cluster analysis which proves that straight men aren't real. Next!
