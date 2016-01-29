@@ -4,7 +4,7 @@
 
 Modern Love will be a tool to visualise the recent explosion in visible sexualities. Before, popularly, there was a simple dichotomy between straight and gay. Now, there are many continuous grades along eight or nine different lines - including not expressing any at all.
 
-This is very exciting for everyone! It doesn't matter if, like me, your apparently honest preferences are actually quite near to the old package deal; we all benefit from the end of unreasoned and unfree sex - even if we subsequently choose much the same package. Choice dignifies.
+This is very exciting for everyone! It doesn't matter if, like me, your apparently honest preferences are actually quite near to the old package deal; we all benefit from the end of unreflective and unfree sex - even if we subsequently remain much the same. Choice dignifies (or, in the [hypothesised absence of choice](https://en.wikipedia.org/wiki/Biology_and_sexual_orientation), insight does).
 
 But it is hard to think clearly about these things. I find it helpful to see sex as a high-dimensionality space which suddenly has a half a dozen [degrees of freedom](https://en.wikipedia.org/wiki/Degrees_of_freedom_%28statistics%29). Luckily, things like these can be represented intuitively with graphics. Many people dislike being measured; many more dislike labels. But in my experience, humans like pictures and need words.
 
@@ -39,13 +39,13 @@ But it is hard to think clearly about these things. I find it helpful to see sex
 
 For a long time, sex and love followed a strict script. If you wanted to avoid spontaneous violence and life-long ostracision, you lived according to that script. The package varied over the years, but a recent form was: "find and love one person of the opposite gender and have sex with only them; live and breed with them forever; if you don't like sex then you are defective; if you find anything except genitals erotic then you are defective".
 
-A mass of brave people are to thank for this unprecedented latitude: mostly feminists and hippies and queers. However, the academic forms that have grown on these movements are by and large *totally unreadable*. So you're stuck trying to sift the blogosphere of its vast noise looking for signal.
+A mass of brave people are to thank for this unprecedented latitude: mostly feminists and hippies and queers. However, the academic forms that have grown on these movements are by and large *totally unreadable*. So you're stuck trying to sift the blogosphere of the predominating useless noise looking for [well-written](https://thingofthings.wordpress.com/tag/follow-ozymandias271-for-more-sad-gays/), [rigorous](http://theunitofcaring.tumblr.com/post/117203975026/pure-queers) signal.
 
 The options are actually never binary, and most of us find it hard to think about spectrums. Here is a visual approach.
 
 ---
 
-## Problems, Omissions
+### Problems, Omissions
 
 
 * Extra variables I haven't decided whether or how to include:
@@ -64,7 +64,7 @@ The options are actually never binary, and most of us find it hard to think abou
 
 * To study any part of human experience entails a solid chance that what you're studying is imaginary. (Or rather, 'real, but made of ideas, habits and social pressure rather than directly of molecules and neural patterns'.) We call this [construct validity](https://en.wikipedia.org/wiki/Construct_validity), and it is important to ask whether the divisions presented here - sexuality and romance as eight particular.
 
-  1. My first response is that ML attempts neither prediction or deep explanation of sexuality; rather, it's a education and visualisation of prima facie plausible axes.
+  1. My first response is that ML attempts neither prediction or deep explanation of sexuality; rather, it's just for exploration of prima facie plausible axes. I suppose I will have to say it outright: I do not view this as a solution of all human sexuality.
 
   2. My second defence is that my instrument is not very '[theory-laden](https://en.wikipedia.org/wiki/Theory-ladenness)': most of these tendencies and preferences are observable, and so the role of theory is happily limited.
 
