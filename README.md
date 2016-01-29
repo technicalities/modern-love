@@ -1,6 +1,8 @@
-## Modern Love
-#### a tool for orienting orientation
+## Modern Love: a tool for orienting orientations
 ---
+> *There are two* [kinds] *of people in the world; those who constantly divide the people of the world into two kinds, and those who do not.*  
+> - Robert Benchley
+
 
 Modern Love will be a tool to visualise the recent explosion in visible sexualities. Before, popularly, there was a simple dichotomy between straight and gay. Now, there are many continuous grades along eight or nine different lines - including not expressing any at all.
 
@@ -58,11 +60,13 @@ The options are actually never binary, and most of us find it hard to think abou
 
 * No particular view of the relative causal strength of nature and nurture on sex is presented. ([Though check this mad business out!](https://en.wikipedia.org/wiki/Digit_ratio#Correlation_between_digit_ratio_and_traits))
 
-* I'm leaving out gender identity. It certainly has a profound effect on the resulting package deal you are likely to express, but it's still a distinct thing. Counter to [one trendy idea](http://geekfeminism.wikia.com/wiki/Intersectionality), it is not actually a sin to speak about one social identity at a time.
+* Leaving out gender identity. It certainly has a profound effect on the resulting package deal you are likely to express, but it's still a distinct thing. Counter to [one trendy idea](http://geekfeminism.wikia.com/wiki/Intersectionality), it is not actually a sin to speak about one social identity at a time.
 
 * To prevent multiplication of jargon and entities, the above variables are *extensional*: that is, they classify behaviour rather than identity. "Bisexual", "pansexual" and their many derivative schools are covered by the Kinsey scale, \#1.
 
-* To study any part of human experience entails a solid chance that what you're studying is imaginary. (Or rather, 'real, but made of ideas, habits and social pressure rather than directly of molecules and neural patterns'.) We call this [construct validity](https://en.wikipedia.org/wiki/Construct_validity), and it is important to ask whether the divisions presented here - sexuality and romance as eight particular.
+* *Fluidity*. A very modern feature: people don't necessarily express the same sexuality over the course of their lives (or from day to day). One could perhaps model this as a dynamical system (an animation within the same geometry), but that's beyond my WebGL skills atm. 'Fluid hackers are [very welcome to contribute](https://github.com/technicalities/modern-love/compare)!
+
+* Studying any part of human experience entails a solid chance that what you're studying is imaginary. (Or rather, 'real, but more easily describable by delusions, habits and norms rather than direct molecular interactions'.) We call the measure of this risk [construct validity](https://en.wikipedia.org/wiki/Construct_validity), and it is important to ask whether the divisions presented here - sexuality and romance as eight particular variables - reflect real quantities or just socially significant ones.
 
   1. My first response is that ML attempts neither prediction or deep explanation of sexuality; rather, it's just for exploration of prima facie plausible axes. I suppose I will have to say it outright: I do not view this as a solution of all human sexuality.
 
