@@ -1,7 +1,7 @@
 ## Modern Love: a tool for orienting orientations
----
+
 > *There are two* [kinds] *of people in the world; those who constantly divide the people of the world into two kinds, and those who do not.*  
-> - Robert Benchley
+> \- Robert Benchley
 
 
 Modern Love will be a tool to visualise the recent explosion in visible sexualities. Before, popularly, there was a simple dichotomy between straight and gay. Now, there are many continuous grades along eight or nine different lines - including not expressing any at all.
