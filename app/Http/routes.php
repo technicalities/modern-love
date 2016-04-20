@@ -1,14 +1,17 @@
 <?php
 
 Route::get('/', function () {
-    return view('intro');
+    return view('home');
 });
 
 Route::get('/about', function () {
     return view('about');
 });
 
+Route::get('/model', function () {
+    return view('model');
+});
 
-Route::get('/problematic', function () {
+Route::get('/soproblematic', function () {
     return view('problems');
 });

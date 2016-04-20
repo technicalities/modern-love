@@ -1,10 +1,11 @@
-$(function(){
+$(document).ready(function () {
+	var sliders = $('.slider');
+	var vals = $('.output');
 
-	var currentValue = $('#currentValue');
+	var val = $('#physVal');
 
-	$('#slider').change(function(){
-	    currentValue.html(this.value);
+	$('#physicality').change(function(){
+			val.html(this.value);
 	});
-	$('#slider').change();
-
-});
+	$('#physicality').change();
+})

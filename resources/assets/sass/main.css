@@ -1,49 +1,5 @@
-html, body {
-      height: 100%;
-}
 
-body {
-    margin: 0;
-    padding: 0;
-    width: 100%;
-    display: table;
-    font-weight: 100;
-    font-family: 'Lato';
-}
-
-.container {
-    text-align: center;
-    display: table-cell;
-    vertical-align: middle;
-}
-
-.content {
-    text-align: center;
-    display: inline-block;
-}
-
-.title {
-    font-size: 96px;
-}
 
 .axis {
   padding-bottom:15px;
-}
-
-
-#navbar {
-  list-style: none;
-  width: 100%;
-  margin: 10px auto 0px auto;
-  height: 43px;
-  padding: 0px 20px 0px 20px;
-  background: #5ca3d2;
-}
-
-#epigram {
-  font-size: 42px;
-}
-
-ul li{
-    display:inline-block;
 }
